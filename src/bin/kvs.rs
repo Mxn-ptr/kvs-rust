@@ -34,11 +34,7 @@ enum Commands {
 
 #[warn(unused_variables)]
 fn main() {
-	let cli = Cli::parse();
+	Cli::parse();
     
-	match &cli.command {
-		_ => {
-			unimplemented!("unimplemented")
-		},
-	}
+	unimplemented!("unimplemented")
 }

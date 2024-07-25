@@ -4,17 +4,11 @@
 use std::collections::HashMap;
 
 /// A simple key-value store.
+#[derive(Default)]
 pub struct KvStore {
     store: HashMap<String, String>,
 }
 
-impl Default for KvStore {
-    fn default() -> Self {
-        Self {
-            store: HashMap::new(),
-        }
-    }
-}
 
 impl KvStore {
     /// Creates a new, empty `KvStore`.
