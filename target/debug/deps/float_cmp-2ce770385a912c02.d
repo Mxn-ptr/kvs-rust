@@ -1,0 +1,12 @@
+/home/max/kvs/target/debug/deps/libfloat_cmp-2ce770385a912c02.rmeta: /home/max/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.8.0/src/lib.rs /home/max/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.8.0/src/macros.rs /home/max/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.8.0/src/ulps.rs /home/max/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.8.0/src/ulps_eq.rs /home/max/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.8.0/src/eq.rs /home/max/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.8.0/src/ratio.rs
+
+/home/max/kvs/target/debug/deps/libfloat_cmp-2ce770385a912c02.rlib: /home/max/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.8.0/src/lib.rs /home/max/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.8.0/src/macros.rs /home/max/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.8.0/src/ulps.rs /home/max/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.8.0/src/ulps_eq.rs /home/max/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.8.0/src/eq.rs /home/max/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.8.0/src/ratio.rs
+
+/home/max/kvs/target/debug/deps/float_cmp-2ce770385a912c02.d: /home/max/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.8.0/src/lib.rs /home/max/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.8.0/src/macros.rs /home/max/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.8.0/src/ulps.rs /home/max/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.8.0/src/ulps_eq.rs /home/max/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.8.0/src/eq.rs /home/max/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.8.0/src/ratio.rs
+
+/home/max/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.8.0/src/lib.rs:
+/home/max/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.8.0/src/macros.rs:
+/home/max/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.8.0/src/ulps.rs:
+/home/max/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.8.0/src/ulps_eq.rs:
+/home/max/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.8.0/src/eq.rs:
+/home/max/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.8.0/src/ratio.rs:
