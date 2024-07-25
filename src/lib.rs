@@ -9,7 +9,6 @@ pub struct KvStore {
     store: HashMap<String, String>,
 }
 
-
 impl KvStore {
     /// Creates a new, empty `KvStore`.
     ///
